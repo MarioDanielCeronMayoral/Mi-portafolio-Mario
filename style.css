@@ -1,0 +1,27 @@
+h1{
+    color:gold
+    }
+   
+
+    .header{
+    background-color:royalblue;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;
+}
+
+.futter{
+display:flex;
+justify-content:center;
+padding-top: 3%;
+padding-bottom: 3%;
+background-color: royalblue;
+}
+
+body{
+    background-color:"green"
+}
